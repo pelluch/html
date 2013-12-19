@@ -1,0 +1,26 @@
+/* Selector */
+.verde
+{
+	color: #71C068;	
+}
+
+.azul
+{
+	color: blue;
+}
+
+#navbar
+{
+	text-align: center;
+}
+
+li
+{
+	list-style: none;
+	display: inline;
+}
+
+a:hover
+{
+	color: brown;
+}
